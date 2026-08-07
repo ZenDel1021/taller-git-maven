@@ -21,3 +21,5 @@
 - `git branch`
 - `git push`
 - `git pull`
+
+##Aprendizajes
