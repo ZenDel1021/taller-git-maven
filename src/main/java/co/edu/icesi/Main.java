@@ -8,10 +8,11 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         Scanner yur = new Scanner(System.in);
-        System.out.println("What's good, what's yo name?");
+        System.out.println("Yo! What's good, what's yo name?");
         String name = yur.nextLine();
         yur.close();
         System.out.println("Hello " + name + " hope ya having a good one");
+        System.out.println("well i got things to do bye bye " + name);
 
     }
 }
