@@ -23,3 +23,5 @@
 - `git pull`
 
 ## Aprendizajes
+- aprender a usar mas git hub
+- reforzar uso de la consola
