@@ -22,4 +22,4 @@
 - `git push`
 - `git pull`
 
-##Aprendizajes
+## Aprendizajes
